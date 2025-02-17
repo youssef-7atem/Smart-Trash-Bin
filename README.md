@@ -45,7 +45,7 @@ Here are some visuals of the project:
 - **Public Spaces**: Can be deployed in parks, malls, and airports for efficient waste disposal.
 - **Recycling Centers**: Helps in automating waste categorization and sorting processes.
 
-## Repository Structure
+
 
 
 
